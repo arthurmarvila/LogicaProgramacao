@@ -1,2 +1,4 @@
 # LogicaProgramacao
- curso de log de programacao em python
+ Lógica de programacao em Python
+## Projetos:
+- caculadora
